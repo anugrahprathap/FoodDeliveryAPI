@@ -30,7 +30,7 @@ ALLOWED_HOSTS = [
     '100.20.92.101',
     '44.225.181.72',
     '44.227.217.144',
-    'fooddeliveryapi-ocw8.onrender.com'
+    'fooddeliveryapi-ocw8.onrender.com',
     '*'
 ]
 
